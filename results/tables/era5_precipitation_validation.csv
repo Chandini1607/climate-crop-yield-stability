@@ -1,0 +1,6 @@
+country,validation_period,mean_absolute_difference_mm,mean_absolute_percentage_difference_percent,corrected_2022_annual_precipitation_mm,corrected_2023_annual_precipitation_mm
+India,Jan-Aug 2022,0.0,0.0,1347.46,1057.88
+China,Jan-Aug 2022,0.0,0.0,763.83,756.42
+United States of America,Jan-Aug 2022,0.0,0.0,759.85,776.22
+Brazil,Jan-Aug 2022,0.0,0.0,1698.61,1428.31
+Australia,Jan-Aug 2022,0.0,0.0,550.76,432.51

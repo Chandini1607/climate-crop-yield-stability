@@ -1,0 +1,11 @@
+analysis,predictor,response,n_rows,pearson_r,spearman_r
+All country-crop observations,precipitation_CV_percent,yield_instability_SD,15,0.7065956169967742,0.5673665146135802
+All country-crop observations,temperature_SD_detrended_C,yield_instability_SD,15,0.373912008963607,-0.01091089451179962
+Leave Australia out,precipitation_CV_percent,yield_instability_SD,12,0.24447829888363962,0.34546681367002435
+Leave Australia out,temperature_SD_detrended_C,yield_instability_SD,12,-0.10828055587483149,-0.3670584895244009
+Crop: Maize (corn),precipitation_CV_percent,yield_instability_SD,5,0.7628111417251234,0.6
+Crop: Maize (corn),temperature_SD_detrended_C,yield_instability_SD,5,0.44573702779997915,0.09999999999999999
+Crop: Rice,precipitation_CV_percent,yield_instability_SD,5,0.9649369455029825,0.7
+Crop: Rice,temperature_SD_detrended_C,yield_instability_SD,5,0.5268076520400707,-0.19999999999999998
+Crop: Wheat,precipitation_CV_percent,yield_instability_SD,5,0.8861976733186481,0.6
+Crop: Wheat,temperature_SD_detrended_C,yield_instability_SD,5,0.4450406909510076,0.09999999999999999

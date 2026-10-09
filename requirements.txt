@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+xarray
+netCDF4
+geopandas
+rasterio
+pyproj
+pyogrio
+shapely
+jupyter
+ipykernel
+Pillow
